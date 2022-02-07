@@ -21,3 +21,9 @@ string y = "Hello World"
 > Hello World
 
 My name is Ahmad and I am a `developer`.
+
+
+```javascript
+x = 5
+y = "Hello World"
+```
