@@ -23,7 +23,14 @@ string y = "Hello World"
 My name is Ahmad and I am a `developer`.
 
 
+
 ```javascript
 x = 5
 y = "Hello World"
 ```
+
+```python
+x= 5
+y= "Hello World"
+```
+
