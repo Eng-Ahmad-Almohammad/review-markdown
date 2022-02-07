@@ -27,3 +27,8 @@ My name is Ahmad and I am a `developer`.
 x = 5
 y = "Hello World"
 ```
+
+```csharp
+z = 25
+c = "Ahmad"
+```
