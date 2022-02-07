@@ -29,8 +29,15 @@ x = 5
 y = "Hello World"
 ```
 
+
+```csharp
+z = 25
+c = "Ahmad"
+```
+
 ```python
 x= 5
 y= "Hello World"
 ```
+
 
